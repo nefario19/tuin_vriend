@@ -1,4 +1,4 @@
-#Gardening Buddy
+# Gardening Buddy
 Beste student,
 
 Je bent aangenomen als mobile- en UX developer door een opdrachtgever genaamd Green Thumb. Green Thumb wil een mobiele app ontwikkelen genaamd Gardening Buddy. Deze app heeft als doel om beginnende tuiniers te helpen bij het verzorgen van hun planten.
