@@ -14,7 +14,7 @@ De klant heeft geen technische of creatieve achtergrond en heeft daarom jouw hul
 Jij moet ook de doelgroep voor de app bepalen. De app is bedoeld voor beginnende tuiniers, maar je moet bepalen welke specifieke groep binnen die doelgroep het beste kan worden benaderd met deze app.
 
 ## Opdracht 1
-In opdracht 1 moet je een marktonderzoek uitvoeren om de doelgroep en de behoeften van de gebruiker te bepalen. Op basis van deze informatie moet je een storyboard maken dat duidelijk het ontwerp en de functionaliteit van de app weergeeft. Het storyboard moet minstens 6 frames bevatten en moet hinten naar het gebruik van een grid- of list view voor het beheren van de plantenlijst.
+In opdracht 1 moet je een marktonderzoek uitvoeren om de doelgroep en de behoeften van de gebruiker te bepalen. Op basis van deze informatie moet je een storyboard maken dat duidelijk het ontwerp en de functionaliteit van de app weergeeft. Het storyboard moet minstens 6 frames bevatten.
 
 ## Opdracht 2
 In opdracht 2 moet je jouw storyboard aanpassen op basis van de feedback van de opdrachtgever en vervolgens een prototype maken van de app. Het prototype hoeft niet volledig functioneel te zijn, maar moet de belangrijkste functies van de app weergeven. Je moet ook twee verdienmodellen bedenken die geschikt zijn voor deze app.
