@@ -38,4 +38,3 @@ Dit heb je nodig.
 -Laptop.
 -Visual Studio Code met Flutter die up-to-date is.
 -Microsoft Word
-![image](https://user-images.githubusercontent.com/77005246/216001738-3fa4384c-5392-4c64-81b0-2a155ed88c22.png)
