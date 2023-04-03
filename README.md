@@ -1,31 +1,26 @@
-# Thuis gemaakt
-
+#Gardening Buddy
 Beste student,
- Jij bent werkzaam als mobile- en UX developer. Jij krijgt nu een project van een opdrachtgever genaamd Stamsa. Stamsa wil een product ontwikkelen genaamd ThuisGemaakt. Het gaat om een mobiele app dat het gezond koken stimuleert.
- 
+
+Je bent aangenomen als mobile- en UX developer door een opdrachtgever genaamd Green Thumb. Green Thumb wil een mobiele app ontwikkelen genaamd Gardening Buddy. Deze app heeft als doel om beginnende tuiniers te helpen bij het verzorgen van hun planten.
+
 ## Hoe werkt de app?
-De app moet een lijst met gerechten presenteren aan de gebruiker voor een hele week (7 dagen). De gebruiker moet iedere week andere gerechten voorgeschoteld krijgen. Het mag niet voorkomen dat de gebruiker twee keer hetzelfde eet in een week en daarom moeten er genoeg gerechten in de app staan. Wanneer jij een gerecht in de lijst kiest, dan moeten de stappen voor het maken van het gerecht te lezen zijn. Dit betekent dat:
- 
-- Een beschrijving van het gerecht aanwezig is.
-- De tijdsduur van het bereiden.
-- Een stappenplan om het gerecht te maken.
-- Er moet aangegeven worden voor wat voor dieet dit geschikt is. Denk aan (Vega, Vegan, Keto, Pescaratisch) etc.
- 
-Tip: Kijk eens naar wat andere kook apps doen voor je direct begint te ontwerpen!
- 
-## Probleemstelling:
-De klant is zelf niet technisch of creatief en schakelt daarom jou in. Hij wil graag dat jij een storyboard maakt, een ontwerp bouwt en een prototype realiseert.  Hij laat zich volledig door jou adviseren a.d.v. de nieuwste trends en ontwikkeling. Jij bent tenslotte de expert!
-Tenslotte bepaal jij de doelgroep voor de applicatie. Iedereen kan eten bestellen, maar niet iedereen kan een smartphone gebruiken. Dus denk aan de toegankelijkheid van jouw ontwerp.
+De app moet de gebruiker de mogelijkheid geven om een lijst van planten aan te maken en te beheren. Voor elke plant moet er informatie worden verstrekt, zoals de naam van de plant, de datum waarop de plant is geplant, de vereiste hoeveelheid water, de hoeveelheid zonlicht die de plant nodig heeft en de hoeveelheid meststof die de plant nodig heeft. De app moet de gebruiker ook herinneringen sturen wanneer het tijd is om een plant water te geven of te bemesten.
+
+Een belangrijk aspect van de app is het educatieve aspect. Er moeten tips en informatie worden verstrekt over hoe de gebruiker het beste voor zijn planten kan zorgen. Er moet ook een gids zijn voor de verschillende soorten planten die kunnen worden gekweekt, inclusief informatie over de vereisten van de planten en de meest voorkomende problemen waarmee de gebruiker te maken kan krijgen.
+
+## Probleemstelling
+De klant heeft geen technische of creatieve achtergrond en heeft daarom jouw hulp ingeroepen. De klant wil dat jij een storyboard maakt, een ontwerp bouwt en een prototype realiseert. De klant laat zich volledig door jou adviseren op basis van de nieuwste trends en ontwikkelingen op het gebied van mobiele app-ontwikkeling. Jij bent tenslotte de expert!
+
+Jij moet ook de doelgroep voor de app bepalen. De app is bedoeld voor beginnende tuiniers, maar je moet bepalen welke specifieke groep binnen die doelgroep het beste kan worden benaderd met deze app.
 
 ## Opdracht 1
- In opdracht 1 moet jij een marktonderzoek (onderzoeksformulier) uitvoeren en vanuit daar de storyboard frames maken. De klant ziet graag dat je binnen 6 frames een duidelijk beeld kan scheppen van hoe de vormgeving eruit zal zien.
-De storyboard wireframes zijn aangeleverde fysieke templates geprint op papier. Die je in zal vullen door het ontwerp te tekenen. Wanneer je hiermee klaar bent, ga je naar de opdrachtgever (examinator) voor feedback. 
+In opdracht 1 moet je een marktonderzoek uitvoeren om de doelgroep en de behoeften van de gebruiker te bepalen. Op basis van deze informatie moet je een storyboard maken dat duidelijk het ontwerp en de functionaliteit van de app weergeeft. Het storyboard moet minstens 6 frames bevatten en moet hinten naar het gebruik van een grid- of list view voor het beheren van de plantenlijst.
 
 ## Opdracht 2
-In opdracht 2 moet jij eventueel de feedback van de opdrachtgever verwerken door jouw ontwerpen aan te passen. Daarnaast moet jij ook een prototype maken. De aanpassing aan jouw ontwerp maak jij door een tweede versie te maken. Versie twee mag in de map ontwerp versie 2 ingeleverd worden. Het prototype hoeft niet 100% functioneel te zijn, maar de opdrachtgever vindt het ontwerp wel belangrijk en ziet het graag terugkomen in de app. De app moet wel runnable zijn. Het project mag in de map Flutter App ingeleverd worden.
+In opdracht 2 moet je jouw storyboard aanpassen op basis van de feedback van de opdrachtgever en vervolgens een prototype maken van de app. Het prototype hoeft niet volledig functioneel te zijn, maar moet de belangrijkste functies van de app weergeven. Je moet ook twee verdienmodellen bedenken die geschikt zijn voor deze app.
 
 ## Opdracht 3
-Als laatste onderdeel ga jij het gerealiseerde prototype testen. Dit doe je door het aangeleverde testformulier in te vullen. Beschrijf zo duidelijk mogelijk wat er getest wordt en wees concreet met de feedback die je geeft.
+In opdracht 3 ga je het prototype testen. Je moet het prototype testen op gebruikersvriendelijkheid, functionaliteit en esthetiek. Je moet ook feedback geven op de gebruikerservaring en eventuele verbeteringen voorstellen. Je moet deze feedback verwerken in de uiteindelijke versie van de app.
  
 ## Wat heb je nodig?
 Allereerst levert de opdrachtgever geen laptops, dus jij moet dit op jouw eigen laptop ontwikkelen. 
